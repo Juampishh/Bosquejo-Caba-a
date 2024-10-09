@@ -28,7 +28,7 @@ export default function Auctions() {
           />
           <div className="flex gap-5 pl-8">
             <motion.img
-              className="absolute top-60 left-12"
+              className="absolute top-60 left-12 lg:top-44"
               src="../Auctions/Group 571.png"
               alt=""
               initial={{ y: -20, opacity: 0 }}
@@ -36,7 +36,7 @@ export default function Auctions() {
               transition={{ duration: 0.5 }}
             />
             <motion.img
-              className="absolute top-60"
+              className="absolute top-60 lg:top-44"
               src="../Genetic/Line 5.png"
               alt=""
               initial={{ y: -20, opacity: 0 }}

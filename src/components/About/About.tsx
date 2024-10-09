@@ -79,7 +79,7 @@ export function About() {
           </motion.p>
         </div>
 
-        <div className="flex flex-col w-1/4 mb-24">
+        <div className="flex flex-col w-1/4 mb-24 lg:mb-32">
           <motion.img
             src="About/GCM-Angus 1.png"
             alt=""

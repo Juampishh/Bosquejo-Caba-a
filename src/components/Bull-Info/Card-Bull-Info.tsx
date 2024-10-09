@@ -64,7 +64,7 @@ const CardBullInfo = () => {
         </div>
       </header>
 
-      <main className="h-[60vh] flex flex-col">
+      <main className="h-[60vh] flex flex-col lg:h-[70vh]">
         <nav className="flex h-10 gap-3 pl-16 mt-14">
           <motion.button
             className="p-3 text-white rounded-t-3xl bg-darkRed"
